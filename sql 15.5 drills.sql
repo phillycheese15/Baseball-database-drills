@@ -1,4 +1,4 @@
--1. 
+--1. 
 SELECT namefirst, namelast, inducted
 FROM people LEFT OUTER JOIN hof_inducted
 ON people.playerid = hof_inducted.playerid;
