@@ -1,7 +1,7 @@
-# Baseball-database-drills
+# Baseball-database
 SQL drills baseball project
 
-Here are the questions for the baseball drills questions
+Here are the questions for the baseball questions
 
 1. Write a query that returns the namefirst and namelast fields of the people table, along with the inducted field from the hof_inducted table. All rows from the people table should be returned, and NULL values for the fields from hof_inducted should be returned when there is no match found.
 
